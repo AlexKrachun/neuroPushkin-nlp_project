@@ -10,7 +10,12 @@ def clean_text(file_path):
     text = re.sub(r'[-]{2,}', '', text)
     text = re.sub(r'Популярность: \d+, Last-modified: .+? GmT', '', text, flags=re.IGNORECASE)
     text = re.sub(r'(\. ){2,}', '', text)
+    text = re.sub(r'\d+', '', text)
+    text = re.sub(r'[^а-яА-Я\s\.]', '', text)
+    text = re.sub('\.+', '.', text)
+    text = re.sub(r'\{d*\}', '', text)
     text = re.sub(r'\s+', ' ', text).strip()
+    text = text.lower()
     return text
 
 cleaned_text = clean_text('dataset/pushkin - full.txt')
