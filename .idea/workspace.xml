@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="082a3535-a187-47c9-9ca9-48f92db2a369" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataset_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_scoring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_scoring.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated_pushkin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated_pushkin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка8 - попробую пообучать модели сначала на лемматизированном,а потом на оригинальном тексте-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка9 - погенерирую датасет в других моделях-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка8 - попробую пообучать модели сначала на лемматизированном,а потом на оригинальном тексте.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка9 - погенерирую датасет в других моделях.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated_curious_pushkin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated_curious_pushkin.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
