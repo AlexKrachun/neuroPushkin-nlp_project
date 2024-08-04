@@ -6,8 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="082a3535-a187-47c9-9ca9-48f92db2a369" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated_curious_pushkin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated_curious_pushkin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/dataset_generation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/dataset_generation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/generated/generated_curious_pushkin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/generated/generated_curious_pushkin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated_curious_pushkin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated_pushkin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_dataset_preparing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка10 - делаю себе датасет с помощью gpt-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка10 - погенерирую датасет в других моделях-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка10 - чищу датасеты и учусь bpe токенизации-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка10 - чищу датасеты и учусь bpe токенизации-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/my_first_bpe_tokenizer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка10 - делаю себе датасет с помощью gpt.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка10 - погенерирую датасет в других моделях.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка10 - чищу датасеты и учусь bpe токенизации.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/мои тренировки/nlp_тренировка10 - чищу датасеты и учусь bpe токенизации.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
