@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="082a3535-a187-47c9-9ca9-48f92db2a369" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataset_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_generation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generated_curious_pushkin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated_curious_pushkin.txt" afterDir="false" />
     </list>
