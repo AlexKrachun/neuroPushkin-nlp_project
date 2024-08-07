@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="082a3535-a187-47c9-9ca9-48f92db2a369" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка10 - чищу датасеты и учусь bpe токенизации-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/.ipynb_checkpoints/nlp_тренировка9 - оцениваю bert-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка10 - чищу датасеты и учусь bpe токенизации.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/мои тренировки/nlp_тренировка9 - оцениваю bert.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
