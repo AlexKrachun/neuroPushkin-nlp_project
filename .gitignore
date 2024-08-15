@@ -2,3 +2,5 @@
 venv/
 .venv/
 model_creating/sberbank-ai
+results/rugpt3medium_based_on_gpt2_1_epochs.zip
+results/rugpt3medium_based_on_gpt2_1_epochs
